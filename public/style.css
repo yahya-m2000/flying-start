@@ -2,4 +2,23 @@
 
 .avatar {
   width: 300px;
+  box-shadow: 
+}
+
+*{
+  background-color: darkgray;
+  color: azure;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+article {
+  border: 1px solid black;
+  margin: auto;
+  padding: 20px;
 }
